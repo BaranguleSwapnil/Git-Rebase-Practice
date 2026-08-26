@@ -1,1 +1,2 @@
-This is Git Rebase poeject
+This is Git Rebase projec
+Main change 1
