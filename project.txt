@@ -1,2 +1,3 @@
-This is Git Rebase projec
+This is Git Rebase project
 Main change 1
+Min chamge 2
